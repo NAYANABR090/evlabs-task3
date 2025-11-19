@@ -1,2 +1,1 @@
-# evlabs-task3
-Implemented linear regression to predict house prices, including preprocessing, model training, evaluation, and coefficient interpretation.
+This task implements simple and multiple linear regression on the Housing dataset to predict property prices. It includes data preprocessing, converting categorical variables, training regression models, evaluating performance using MAE, MSE, RMSE, and R², plotting the regression line, and interpreting model coefficients to understand how each feature influences price.
